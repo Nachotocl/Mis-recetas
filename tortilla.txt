@@ -3,4 +3,4 @@ patatas
 huevos
 aceite 
 sal
-cebolla
+Cebolla
